@@ -60,15 +60,17 @@ This project explores behavioral differences between casual and annual members u
 - 🧾 Full Report: Integrated PDF with code and explanation is [here](https://github.com/Andres04Machado/Cyclistic_Analytics/blob/main/output/Cyclistic_Capstone_Project.pdf)
 
 #### Conclusions from Data Analysis
-1. **Ride Volume**: Annual members took more total rides than casual riders.
-**INSERT BAR PLOT**
+1. **Ride Volume**: Annual members took more total rides than casual riders.![Total_Rides_MvsC](https://github.com/user-attachments/assets/f8a162bb-0feb-424f-8c28-80b93890f004)
 2. The average ride length among all riders is about **16.3** minutes. In general, casual riders took longer rides than annual members. The average ride length for casuals is about **22.8** minutes while the average ride length for annual members is about **12.3** minutes.
 3. The average ride distance amongst all riders is about **1.4** miles. 
 Broadly speaking, casual riders rode for longer distances than annual members, although not by much. The average ride distance for casuals is about **1.4** miles while the average ride length for annual members is about **1.3** miles.
-4. Interestingly, casuals rode for longer times on Sundays and rode farther distances on Saturdays. The opposite is true for members where they rode for longer times on Saturdays and rode farther distances on Sundays. This suggests that both groups love the weekends as total amount of rides increased on Friday, Saturday, and Sunday relative to the weekdays. This is supported by the following bar chart:
-**INSERT BAR PLOT**
-5. Both types of riders rode for longer and farther in the spring and summer months. However, the total number of total riders decreased as fall and spring came around. This is to say Cyclistic hosts their services in a city where it gets chilly in the fall and winter. This is supported by the following bar chart:
-**INSERT BAR PLOT**
+4. Interestingly, casuals rode for longer times on Sundays and rode farther distances on Saturdays. The opposite is true for members where they rode for longer times on Saturdays and rode farther distances on Sundays. This suggests that both groups love the weekends as total amount of rides increased on Friday, Saturday, and Sunday relative to the weekdays.
+   
+![Total_Rides_MvsC_Days](https://github.com/user-attachments/assets/35ab0c1e-b715-4b8d-9397-7a8d369848c7)
+
+5. Both types of riders rode for longer and farther in the spring and summer months. However, the total number of total riders decreased as fall and spring came around. This is to say Cyclistic hosts their services in a city where it gets chilly in the fall and winter.
+
+![Total_Rides_MvsC_Monthly](https://github.com/user-attachments/assets/9338fdae-4680-4264-9f9b-bda14844ba19)
 
 ## 4. Recommendations
 To reiterate, the main objective of this analysis is **how annual members of Cyclistic and casual riders use Cyclistic bikes differently?**
